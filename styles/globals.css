@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+button {
+  appearance: none;
+  outline: none;
+  background-color: white;
+  padding: 0.3rem 0.5rem;
+  margin: 0;
+  font-size: 1rem;
+  border: 1px solid #0070f3;
+  border-radius: 5px;
+  color: #0070f3;
+}
